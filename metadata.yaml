@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '49062'
     url: http://www.gutenberg.org/2009/agents/49062
     wikipedia: https://en.wikipedia.org/wiki/John_Charlton_(artist)
+covers:
+- cover_type: archival
+  image_path: 65561-h/images/cover.jpg
 creator:
   author:
     agent_name: Croker, B. M. (Bithia Mary)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7895
     wikipedia: https://en.wikipedia.org/wiki/Bithia_Mary_Croker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65561#Jungle-Tales
 gutenberg_issued: '2021-06-07'
 gutenberg_type: Text
 identifiers:
